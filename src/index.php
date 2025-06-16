@@ -22,7 +22,7 @@
       }
     ?>
 
-    <h2 class="text-center mt-3 mb-5">Simple Blogi 13day</h2>
+    <h2 class="text-center mt-3 mb-5">Simple Blogi codeseries</h2>
     <div class="container">
 
       <?php foreach ($posts as $post) : ?>
